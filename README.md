@@ -18,7 +18,7 @@ This application is not currently deployed and not accessible.
 
 # Application Video Demo
 This is a screen recorded demo explaining how the app works, and how it was made.
-[Watch the video](https://youtu.be/EiVM4sHmRJM?si=VizTjV2RSNYH-cnq)
+[![Video Title](https://github.com/EdwardTatel/J2EE-SQL_Food-Ordering_App/blob/main/images/J2eeDemo.jpg)](https://youtu.be/EiVM4sHmRJM?si=VizTjV2RSNYH-cnq)
 
 # Screenshots
 Register Form
