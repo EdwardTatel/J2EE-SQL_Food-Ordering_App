@@ -1,6 +1,6 @@
 # Food Ordering App
 This is an application done for the subject - CS ELECTIVE 1(Dynamic Web Programming (J2EE/Rest API) 
-It is a simple food ordering application made with HTML, CSS, JavaScript, J2EE, and SQL.
+It is a simple food ordering application made with HTML, CSS, JavaScript, J2EE, JSP, and SQL.
 
 # Features
 - Login/Register
